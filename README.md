@@ -1,3 +1,3 @@
-https://travis-ci.org/TaiSakuma/ubiquitous-giggle.svg?branch=master
+![](https://travis-ci.org/TaiSakuma/ubiquitous-giggle.svg?branch=master)
 
 # ubiquitous-giggle
